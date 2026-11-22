@@ -1,0 +1,13 @@
+{
+  "name": "স্বপ্নযাত্রা ট্যুরস অ্যান্ড ট্রাভেলস",
+  "short_name": "স্বপ্নযাত্রা",
+  "lang": "bn",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8EF",
+  "theme_color": "#FFF8EF",
+  "icons": [
+    {"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml"},
+    {"src": "/images/logo-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
